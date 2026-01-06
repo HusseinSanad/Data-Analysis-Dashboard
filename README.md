@@ -24,3 +24,5 @@ The Bike Sales wants to know Who bought more bikes , the Owner of the bike sales
 -Merge all Pivot tables into one dashboard and apply sclicer to make dynamic
 
 ## Dashboard
+<img width="1850" height="1410" alt="Bike Bashboard" src="https://github.com/user-attachments/assets/877db8c6-6a01-44ce-98f0-09a763d26fcb" />
+
