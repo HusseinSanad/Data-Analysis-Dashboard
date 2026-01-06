@@ -26,3 +26,11 @@ The Bike Sales wants to know Who bought more bikes , the Owner of the bike sales
 ## Dashboard
 <img width="1850" height="1410" alt="Bike Bashboard" src="https://github.com/user-attachments/assets/877db8c6-6a01-44ce-98f0-09a763d26fcb" />
 
+
+## Project insight
+-Women customers are more likely to buy Products compared to men (~65%)
+- The region of Pacific achieved higher sales
+-The middle age brackets(31-55) is max contributing (~50%) and buys the most products
+-Top 3 most purchased categories  of educations is Bachelor’s, Graduate Degree and High school
+
+
